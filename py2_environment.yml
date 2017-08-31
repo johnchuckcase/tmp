@@ -1,0 +1,47 @@
+name: python2
+channels:
+  - conda-forge
+dependencies:
+  - python=2.7
+  - nomkl
+  # python packages
+  - numpy
+  - pandas
+  - numexpr
+  - matplotlib
+  - scipy
+  - seaborn
+  - scikit-learn
+  - sympy
+  - cython
+  - patsy
+  - statsmodels
+  - dill
+  - xlrd
+  - psycopg2
+  - boto
+  - boto3
+  - dask
+  - blaze
+  - numba
+  - pytables
+  - nltk
+  - pip
+  - bokeh
+  - requests
+  - gitpython
+  - h5py
+  - hdf5
+  - nose
+  - pandasql
+  - plotly
+  - pymongo
+  - pymysql
+  - pytables
+  - pytz
+  - six
+  - sqlalchemy
+  - toolz
+  - scikit-image
+  - pillow
+  - beautifulsoup4

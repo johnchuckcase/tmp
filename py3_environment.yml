@@ -1,0 +1,52 @@
+name: python3
+channels:
+  - conda-forge
+  - r
+dependencies:
+  - python=3.5
+  - nomkl
+  # python packages
+  - numpy
+  - pandas
+  - numexpr
+  - matplotlib
+  - scipy
+  - seaborn
+  - scikit-learn
+  - sympy
+  - cython
+  - patsy
+  - statsmodels
+  - dill
+  - xlrd
+  - psycopg2
+  - boto
+  - boto3
+  - dask
+  - blaze
+  - numba
+  - pytables
+  - nltk
+  - pip
+  - bokeh
+  - requests
+  - gitpython
+  - h5py
+  - hdf5
+  - nose
+  - pandasql
+  - plotly
+  - pymongo
+  - pymysql
+  - pytables
+  - pytz
+  - six
+  - sqlalchemy
+  - toolz
+  - scikit-image
+  - pillow
+  - beautifulsoup4
+  # r packages
+  - r-essentials
+  - r-devtools
+  - rpy2
